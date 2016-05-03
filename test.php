@@ -7,5 +7,5 @@
 	echo "dfg";
 	phpinfo();
 	
-	echo "dd";
+	echo "dd2";
 ?>
