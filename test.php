@@ -6,4 +6,6 @@
 	
 	echo "dfg";
 	phpinfo();
+	
+	echo "dd";
 ?>
