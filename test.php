@@ -5,4 +5,5 @@
 	echo "dfgdfg";
 	
 	echo "dfg";
+	phpinfo();
 ?>
